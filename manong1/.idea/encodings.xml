@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/manong_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductCategoryMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductCategoryMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/ProductMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/UserMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_mapper/src/main/java/com/manong/mapper/UserMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/Product.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/ProductCategory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/ProductCategoryExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/ProductExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_pojo/src/main/java/com/manong/pojo/UserExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/css/themes" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/js/jquery.easyui.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/js/jquery.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/WEB-INF/jsp/ueditor_test.jsp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/ueditor/ueditor.all.js" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/ueditor/ueditor.all.min.js" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/ueditor/ueditor.config.js" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_manager/manong_manager_web/src/main/webapp/ueditor/ueditor.parse.js" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/css" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/css/index.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/css/public.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/Product.ftl" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/Select.html" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/comment.html" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/detail.html" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/index.ftl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/index.ftl" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/login.html" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/ftl/shopcar.html" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/js" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/WEB-INF/js/index.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/font" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/icon" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/images" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_portal/src/main/webapp/index.jsp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/manong_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_rest/src/main/resources/spring/applicationContext-service.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_rest/src/main/resources/spring/applicationContext-trans.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_rest/src/main/resources/spring/springmvc.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/manong_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manong_sso" charset="UTF-8" />
+  </component>
+</project>
